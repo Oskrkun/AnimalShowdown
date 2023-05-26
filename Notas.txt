@@ -1,0 +1,2 @@
+ver porque la zona de colision del disco no queda centrada
+agregar variable al match manager para saber q se puede tirar poderes y preguntar en character ia character por el en POWER
